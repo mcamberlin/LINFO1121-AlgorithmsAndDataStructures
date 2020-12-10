@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be98806f-cb64-499a-a153-78b0646b41e9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>',',','</find>
+      <find>String index out of range:</find>
+      <find>','</find>
+      <find>\</find>
+      <find>Asterix</find>
+      <find>chante</find>
+      <find>mission</find>
+      <find>pirates</find>
+      <find>RM</find>
+      <find>buildTrie1</find>
+      <find>feedback(</find>
+      <find>== 2</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>','!','</replace>
+      <replace>,</replace>
+      <replace>System.out.println(</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\user\Documents\UCL\Master\Q9\Algo\grading\LSINF1121_PART3_BinarySearchTree</dir>
+    </dirStrings>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kkZkalhEhQw34VSpsBCXuU808e" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Java</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543259645460" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs/junit-4.12.jar" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Documents\UCL\Master\Q9\Algo\grading\LSINF1121_PART1_CircularLinkedList\src\main\java" />
+      <recent name="C:\Users\user\Documents\UCL\Master\Q9\Algo\grading\LSINF1121_PART1_CircularLinkedList\src\test\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in LSINF1121_PART5_Huffman">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HuffmanTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HuffmanTest" />
+      <module name="LSINF1121_PART5_Huffman" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in LSINF1121_PART5_Huffman" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LSINF1121_PART5_Huffman" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HuffmanTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LSINF1121_PART5_Huffman" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HuffmanTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HuffmanTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LSINF1121_PART5_Huffman" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HuffmanTest2" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabinKarpTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LSINF1121_PART5_Huffman" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RabinKarpTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.HuffmanTest" />
+      <item itemvalue="JUnit.RabinKarpTest" />
+      <item itemvalue="JUnit.HuffmanTest2" />
+      <item itemvalue="JUnit.HuffmanTest" />
+      <item itemvalue="JUnit.All in LSINF1121_PART5_Huffman" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in LSINF1121_PART5_Huffman" />
+        <item itemvalue="JUnit.HuffmanTest" />
+        <item itemvalue="Application.HuffmanTest" />
+        <item itemvalue="JUnit.HuffmanTest2" />
+        <item itemvalue="JUnit.RabinKarpTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../../Applications Scala/FIM/fim-cp" value="1468961274000" />
+        <entry key="$PROJECT_DIR$/../../Applications Scala/cap/cp4cap" value="1496190926000" />
+        <entry key="$PROJECT_DIR$/../../Applications Scala/oscar-user-version/4quent/cp4d" value="1490052279000" />
+        <entry key="$PROJECT_DIR$/../../Applications Scala/oscar-user-version/Hashcode/hcoder" value="1487770916000" />
+        <entry key="$PROJECT_DIR$/../../Applications Scala/oscar-user-version/fim-discriminative/ISCwithD/fim-discrimative" value="1486316517000" />
+        <entry key="$PROJECT_DIR$/../../Applications Scala/oscar-user-version/fim-discriminative/discriminativeOOOk/fim-discrimative" value="1493663130000" />
+        <entry key="$PROJECT_DIR$/../../Applications Scala/oscar-user-version/fim-discriminative/discriminativeOk/fim-discrimative" value="1487121925000" />
+        <entry key="$PROJECT_DIR$/../../Applications Scala/oscar-user-version/fim-discriminative/fim-discrimative" value="1482237983000" />
+        <entry key="$PROJECT_DIR$/../../Applications Scala/oscar-user-version/oscar-cpok" value="1441623758000" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../Applications Scala/okpaer/cp4dt" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be98806f-cb64-499a-a153-78b0646b41e9" name="Default Changelist" comment="" />
+      <created>1537531057859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537531057859</updated>
+      <workItem from="1537531059550" duration="842000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="842000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="664" y="262" key="FileChooserDialogImpl" timestamp="1606248324732">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="664" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606248324732" />
+    <state width="1878" height="248" key="GridCell.Tab.0.bottom" timestamp="1606310398220">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="248" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606310398220" />
+    <state width="1878" height="248" key="GridCell.Tab.0.center" timestamp="1606310398220">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="248" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606310398220" />
+    <state width="1878" height="248" key="GridCell.Tab.0.left" timestamp="1606310398220">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="248" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606310398220" />
+    <state width="1878" height="248" key="GridCell.Tab.0.right" timestamp="1606310398220">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="248" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606310398220" />
+    <state x="441" y="94" key="SettingsEditor" timestamp="1606248465512">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="441" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606248465512" />
+  </component>
+</project>

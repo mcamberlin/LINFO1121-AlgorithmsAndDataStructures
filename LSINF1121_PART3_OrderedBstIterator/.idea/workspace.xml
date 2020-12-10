@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be98806f-cb64-499a-a153-78b0646b41e9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectId" id="1j2ltDDYGBiZLIa0Y11nn7bKjZd" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Java</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540480731860" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs/JavaGrading-0.1.jar" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="student" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BSTTestComplexity">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BSTTestComplexity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LSINF1121_PART3_OrderedBstIterator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BSTTestComplexity" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BSTTestExtreme" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LSINF1121_PART3_OrderedBstIterator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BSTTestExtreme" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BSTTestRandom" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LSINF1121_PART3_OrderedBstIterator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BSTTestRandom" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MYBSTTEST" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LSINF1121_PART3_OrderedBstIterator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MYBSTTEST" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MYBSTTEST.testNext" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LSINF1121_PART3_OrderedBstIterator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MYBSTTEST" />
+      <option name="METHOD_NAME" value="testNext" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.BSTTestRandom" />
+      <item itemvalue="JUnit.MYBSTTEST" />
+      <item itemvalue="JUnit.MYBSTTEST.testNext" />
+      <item itemvalue="JUnit.BSTTestComplexity" />
+      <item itemvalue="JUnit.BSTTestExtreme" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BSTTestComplexity" />
+        <item itemvalue="JUnit.MYBSTTEST" />
+        <item itemvalue="JUnit.BSTTestRandom" />
+        <item itemvalue="JUnit.BSTTestExtreme" />
+        <item itemvalue="JUnit.MYBSTTEST.testNext" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../../Applications Scala/FIM/fim-cp" value="1468961274000" />
+        <entry key="$PROJECT_DIR$/../../Applications Scala/cap/cp4cap" value="1496190926000" />
+        <entry key="$PROJECT_DIR$/../../Applications Scala/oscar-user-version/4quent/cp4d" value="1490052279000" />
+        <entry key="$PROJECT_DIR$/../../Applications Scala/oscar-user-version/Hashcode/hcoder" value="1487770916000" />
+        <entry key="$PROJECT_DIR$/../../Applications Scala/oscar-user-version/fim-discriminative/ISCwithD/fim-discrimative" value="1486316517000" />
+        <entry key="$PROJECT_DIR$/../../Applications Scala/oscar-user-version/fim-discriminative/discriminativeOOOk/fim-discrimative" value="1493663130000" />
+        <entry key="$PROJECT_DIR$/../../Applications Scala/oscar-user-version/fim-discriminative/discriminativeOk/fim-discrimative" value="1487121925000" />
+        <entry key="$PROJECT_DIR$/../../Applications Scala/oscar-user-version/fim-discriminative/fim-discrimative" value="1482237983000" />
+        <entry key="$PROJECT_DIR$/../../Applications Scala/oscar-user-version/oscar-cpok" value="1441623758000" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../Applications Scala/okpaer/cp4dt" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be98806f-cb64-499a-a153-78b0646b41e9" name="Default Changelist" comment="" />
+      <created>1537531057859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537531057859</updated>
+      <workItem from="1537531059550" duration="842000" />
+      <workItem from="1540383096147" duration="17771000" />
+      <workItem from="1540480962219" duration="312000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18925000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="435" y="227" width="532" height="320" key="DetectedRootsChooserDialog" timestamp="1603010350384">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="435" y="227" width="532" height="320" key="DetectedRootsChooserDialog/0.0.1280.680/-1920.360.1920.1040@0.0.1280.680" timestamp="1603010350384" />
+    <state x="344" y="83" key="FileChooserDialogImpl" timestamp="1603010679046">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="344" y="83" key="FileChooserDialogImpl/0.0.1280.680/-1920.360.1920.1040@0.0.1280.680" timestamp="1603010679046" />
+    <state width="1877" height="358" key="GridCell.Tab.0.bottom" timestamp="1603033950785">
+      <screen x="-1920" y="360" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="358" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.360.1920.1040@-1920.360.1920.1040" timestamp="1603033950785" />
+    <state width="1238" height="215" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.360.1920.1040@0.0.1280.680" timestamp="1603032211942" />
+    <state width="1877" height="358" key="GridCell.Tab.0.center" timestamp="1603033950785">
+      <screen x="-1920" y="360" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="358" key="GridCell.Tab.0.center/0.0.1280.680/-1920.360.1920.1040@-1920.360.1920.1040" timestamp="1603033950785" />
+    <state width="1238" height="215" key="GridCell.Tab.0.center/0.0.1280.680/-1920.360.1920.1040@0.0.1280.680" timestamp="1603032211941" />
+    <state width="1877" height="358" key="GridCell.Tab.0.left" timestamp="1603033950785">
+      <screen x="-1920" y="360" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="358" key="GridCell.Tab.0.left/0.0.1280.680/-1920.360.1920.1040@-1920.360.1920.1040" timestamp="1603033950785" />
+    <state width="1238" height="215" key="GridCell.Tab.0.left/0.0.1280.680/-1920.360.1920.1040@0.0.1280.680" timestamp="1603032211941" />
+    <state width="1877" height="358" key="GridCell.Tab.0.right" timestamp="1603033950785">
+      <screen x="-1920" y="360" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="358" key="GridCell.Tab.0.right/0.0.1280.680/-1920.360.1920.1040@-1920.360.1920.1040" timestamp="1603033950785" />
+    <state width="1238" height="215" key="GridCell.Tab.0.right/0.0.1280.680/-1920.360.1920.1040@0.0.1280.680" timestamp="1603032211941" />
+    <state width="1877" height="358" key="GridCell.Tab.1.bottom" timestamp="1603033950786">
+      <screen x="-1920" y="360" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="358" key="GridCell.Tab.1.bottom/0.0.1280.680/-1920.360.1920.1040@-1920.360.1920.1040" timestamp="1603033950786" />
+    <state width="1238" height="215" key="GridCell.Tab.1.bottom/0.0.1280.680/-1920.360.1920.1040@0.0.1280.680" timestamp="1603032211942" />
+    <state width="1877" height="358" key="GridCell.Tab.1.center" timestamp="1603033950786">
+      <screen x="-1920" y="360" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="358" key="GridCell.Tab.1.center/0.0.1280.680/-1920.360.1920.1040@-1920.360.1920.1040" timestamp="1603033950786" />
+    <state width="1238" height="215" key="GridCell.Tab.1.center/0.0.1280.680/-1920.360.1920.1040@0.0.1280.680" timestamp="1603032211942" />
+    <state width="1877" height="358" key="GridCell.Tab.1.left" timestamp="1603033950785">
+      <screen x="-1920" y="360" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="358" key="GridCell.Tab.1.left/0.0.1280.680/-1920.360.1920.1040@-1920.360.1920.1040" timestamp="1603033950785" />
+    <state width="1238" height="215" key="GridCell.Tab.1.left/0.0.1280.680/-1920.360.1920.1040@0.0.1280.680" timestamp="1603032211942" />
+    <state width="1877" height="358" key="GridCell.Tab.1.right" timestamp="1603033950786">
+      <screen x="-1920" y="360" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="358" key="GridCell.Tab.1.right/0.0.1280.680/-1920.360.1920.1040@-1920.360.1920.1040" timestamp="1603033950786" />
+    <state width="1238" height="215" key="GridCell.Tab.1.right/0.0.1280.680/-1920.360.1920.1040@0.0.1280.680" timestamp="1603032211942" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1603030225628">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680/-1920.360.1920.1040@0.0.1280.680" timestamp="1603030225628" />
+    <state x="461" y="165" key="export.test.results" timestamp="1603030272314">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="461" y="165" key="export.test.results/0.0.1280.680/-1920.360.1920.1040@0.0.1280.680" timestamp="1603030272314" />
+    <state x="303" y="2" width="672" height="678" key="search.everywhere.popup" timestamp="1603023035464">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="2" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/-1920.360.1920.1040@0.0.1280.680" timestamp="1603023035464" />
+  </component>
+</project>

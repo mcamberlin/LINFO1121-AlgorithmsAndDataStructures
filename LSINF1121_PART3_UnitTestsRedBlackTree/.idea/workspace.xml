@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be98806f-cb64-499a-a153-78b0646b41e9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ivBPKOR82OgVLoeEaP08QRxDvO" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Java</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540488203308" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Documents\UCL\Master\Q9\Algo\grading\LSINF1121_PART1_CircularLinkedList\src\main\java" />
+      <recent name="C:\Users\user\Documents\UCL\Master\Q9\Algo\grading\LSINF1121_PART1_CircularLinkedList\src\test\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.RedBlackTests.testIsBalanced">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedBlackTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LSINF1121_PART3_UnitTestsRedBlackTree" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RedBlackTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedBlackTests.getTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LSINF1121_PART3_UnitTestsRedBlackTree" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RedBlackTests" />
+      <option name="METHOD_NAME" value="getTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedBlackTests.testIsBalanced" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LSINF1121_PART3_UnitTestsRedBlackTree" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RedBlackTests" />
+      <option name="METHOD_NAME" value="testIsBalanced" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedBlackTests.testIsSorted" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LSINF1121_PART3_UnitTestsRedBlackTree" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RedBlackTests" />
+      <option name="METHOD_NAME" value="testIsSorted" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRB" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LSINF1121_PART3_UnitTestsRedBlackTree" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestRB" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.RedBlackTests" />
+      <item itemvalue="JUnit.RedBlackTests.getTest" />
+      <item itemvalue="JUnit.RedBlackTests.testIsSorted" />
+      <item itemvalue="JUnit.TestRB" />
+      <item itemvalue="JUnit.RedBlackTests.testIsBalanced" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RedBlackTests.testIsBalanced" />
+        <item itemvalue="JUnit.RedBlackTests" />
+        <item itemvalue="JUnit.RedBlackTests.testIsSorted" />
+        <item itemvalue="JUnit.RedBlackTests.getTest" />
+        <item itemvalue="JUnit.TestRB" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../../Applications Scala/FIM/fim-cp" value="1468961274000" />
+        <entry key="$PROJECT_DIR$/../../Applications Scala/cap/cp4cap" value="1496190926000" />
+        <entry key="$PROJECT_DIR$/../../Applications Scala/oscar-user-version/4quent/cp4d" value="1490052279000" />
+        <entry key="$PROJECT_DIR$/../../Applications Scala/oscar-user-version/Hashcode/hcoder" value="1487770916000" />
+        <entry key="$PROJECT_DIR$/../../Applications Scala/oscar-user-version/fim-discriminative/ISCwithD/fim-discrimative" value="1486316517000" />
+        <entry key="$PROJECT_DIR$/../../Applications Scala/oscar-user-version/fim-discriminative/discriminativeOOOk/fim-discrimative" value="1493663130000" />
+        <entry key="$PROJECT_DIR$/../../Applications Scala/oscar-user-version/fim-discriminative/discriminativeOk/fim-discrimative" value="1487121925000" />
+        <entry key="$PROJECT_DIR$/../../Applications Scala/oscar-user-version/fim-discriminative/fim-discrimative" value="1482237983000" />
+        <entry key="$PROJECT_DIR$/../../Applications Scala/oscar-user-version/oscar-cpok" value="1441623758000" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../Applications Scala/okpaer/cp4dt" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be98806f-cb64-499a-a153-78b0646b41e9" name="Default Changelist" comment="" />
+      <created>1537531057859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537531057859</updated>
+      <workItem from="1537531059550" duration="842000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="842000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1828" y="452" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1603360587932">
+      <screen x="-1920" y="360" width="1920" height="1040" />
+    </state>
+    <state x="-1828" y="452" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1280.680/-1920.360.1920.1040@-1920.360.1920.1040" timestamp="1603360587932" />
+    <state x="-1254" y="620" key="FileChooserDialogImpl" timestamp="1602779762770">
+      <screen x="-1920" y="360" width="1920" height="1040" />
+    </state>
+    <state x="-1254" y="620" key="FileChooserDialogImpl/0.0.1280.680/-1920.360.1920.1040@-1920.360.1920.1040" timestamp="1602779762770" />
+    <state width="1877" height="304" key="GridCell.Tab.0.bottom" timestamp="1603360813399">
+      <screen x="-1920" y="360" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="304" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.360.1920.1040@-1920.360.1920.1040" timestamp="1603360813399" />
+    <state width="1238" height="181" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1602792575450" />
+    <state width="1877" height="304" key="GridCell.Tab.0.center" timestamp="1603360813399">
+      <screen x="-1920" y="360" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="304" key="GridCell.Tab.0.center/0.0.1280.680/-1920.360.1920.1040@-1920.360.1920.1040" timestamp="1603360813399" />
+    <state width="1238" height="181" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1602792575448" />
+    <state width="1877" height="304" key="GridCell.Tab.0.left" timestamp="1603360813399">
+      <screen x="-1920" y="360" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="304" key="GridCell.Tab.0.left/0.0.1280.680/-1920.360.1920.1040@-1920.360.1920.1040" timestamp="1603360813399" />
+    <state width="1238" height="181" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1602792575448" />
+    <state width="1877" height="304" key="GridCell.Tab.0.right" timestamp="1603360813399">
+      <screen x="-1920" y="360" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="304" key="GridCell.Tab.0.right/0.0.1280.680/-1920.360.1920.1040@-1920.360.1920.1040" timestamp="1603360813399" />
+    <state width="1238" height="181" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1602792575449" />
+    <state x="-1480" y="453" key="SettingsEditor" timestamp="1602779764933">
+      <screen x="-1920" y="360" width="1920" height="1040" />
+    </state>
+    <state x="-1480" y="453" key="SettingsEditor/0.0.1280.680/-1920.360.1920.1040@-1920.360.1920.1040" timestamp="1602779764933" />
+  </component>
+</project>

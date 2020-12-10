@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eaa10ea4-2f78-49ff-abbf-f133230f351f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="CLEAR_OUTPUT_DIRECTORY" value="false" />
+  </component>
+  <component name="ProjectId" id="1kdvKe7IaerePnwMhyMJXaOLw6Y" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs/junit-4.12.jar" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="JUnit.GlobalWarmingTests (1)">
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in LSINF1121_Part5_GlobalWarming" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LSINF1121_Part5_GlobalWarming" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GlobalWarmingTests (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LSINF1121_Part5_GlobalWarming" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GlobalWarmingTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GlobalWarmingTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GlobalWarmingTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GlobalWarmingTests.test0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LSINF1121_Part5_GlobalWarming" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GlobalWarmingTests" />
+      <option name="METHOD_NAME" value="test0" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GlobalWarmingTests.testSimpleAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LSINF1121_Part5_GlobalWarming" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GlobalWarmingTests" />
+      <option name="METHOD_NAME" value="testSimpleAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GlobalWarmingTests (1)" />
+        <item itemvalue="JUnit.All in LSINF1121_Part5_GlobalWarming" />
+        <item itemvalue="JUnit.GlobalWarmingTests.test0" />
+        <item itemvalue="JUnit.GlobalWarmingTests.testSimpleAll" />
+        <item itemvalue="JUnit.GlobalWarmingTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="WindowStateProjectService">
+    <state x="93" y="93" width="1733" height="853" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1606074094869">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="93" y="93" width="1733" height="853" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606074094869" />
+    <state x="685" y="333" key="FileChooserDialogImpl" timestamp="1606051822611">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="685" y="333" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606051822611" />
+    <state width="1900" height="291" key="GridCell.Tab.0.bottom" timestamp="1606079760515">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="291" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606079760515" />
+    <state width="1900" height="291" key="GridCell.Tab.0.center" timestamp="1606079760514">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="291" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606079760514" />
+    <state width="1900" height="291" key="GridCell.Tab.0.left" timestamp="1606079760514">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="291" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606079760514" />
+    <state width="1900" height="291" key="GridCell.Tab.0.right" timestamp="1606079760514">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="291" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606079760514" />
+    <state width="1878" height="359" key="GridCell.Tab.1.bottom" timestamp="1606077704390">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="359" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606077704390" />
+    <state width="1878" height="359" key="GridCell.Tab.1.center" timestamp="1606077704390">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="359" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606077704390" />
+    <state width="1878" height="359" key="GridCell.Tab.1.left" timestamp="1606077704390">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="359" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606077704390" />
+    <state width="1878" height="359" key="GridCell.Tab.1.right" timestamp="1606077704390">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="359" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606077704390" />
+    <state x="462" y="165" key="SettingsEditor" timestamp="1606077695864">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="462" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606077695864" />
+    <state x="683" y="412" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1606051409168">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="683" y="412" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1606051409168" />
+    <state x="652" y="252" key="new project wizard" timestamp="1606051285554">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="652" y="252" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1606051285554" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LSINF1121_Part5_GlobalWarming$GlobalWarmingTests_test0.ic" NAME="GlobalWarmingTests.test0 Coverage Results" MODIFIED="1606062899247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

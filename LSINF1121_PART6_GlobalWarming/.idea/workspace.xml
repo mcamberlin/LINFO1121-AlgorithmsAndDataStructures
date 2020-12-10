@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a15524f0-4560-47fc-ada7-647d07ee93af" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="CLEAR_OUTPUT_DIRECTORY" value="false" />
+  </component>
+  <component name="ProjectId" id="1lIcSGB3akxP5blb5uvxaWvxs8H" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs/junit-4.12.jar" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="JUnit.All in LSINF1121_PART6_GlobalWarming">
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in LSINF1121_PART6_GlobalWarming" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LSINF1121_PART6_GlobalWarming" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GlobalWarmingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LSINF1121_PART6_GlobalWarming" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GlobalWarmingTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GlobalWarmingTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LSINF1121_PART6_GlobalWarming" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GlobalWarmingTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GlobalWarmingTest.testCorrectnessShortestPath" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LSINF1121_PART6_GlobalWarming" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GlobalWarmingTest" />
+      <option name="METHOD_NAME" value="testCorrectnessShortestPath" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GlobalWarmingTest.testSimpleAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LSINF1121_PART6_GlobalWarming" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GlobalWarmingTest" />
+      <option name="METHOD_NAME" value="testSimpleAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in LSINF1121_PART6_GlobalWarming" />
+        <item itemvalue="JUnit.GlobalWarmingTest.test1" />
+        <item itemvalue="JUnit.GlobalWarmingTest" />
+        <item itemvalue="JUnit.GlobalWarmingTest.testCorrectnessShortestPath" />
+        <item itemvalue="JUnit.GlobalWarmingTest.testSimpleAll" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="WindowStateProjectService">
+    <state x="587" y="198" key="#Inspections" timestamp="1607376566866">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="587" y="198" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1607376566866" />
+    <state x="441" y="94" key="#Project_Structure" timestamp="1607290374264">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="441" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1607290374264" />
+    <state x="766" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1607290156440">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="766" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1607290156440" />
+    <state x="792" y="231" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1607288199761">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="792" y="231" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607288199761" />
+    <state x="755" y="406" key="DetectedRootsChooserDialog" timestamp="1607288185189">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="755" y="406" key="DetectedRootsChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607288185189" />
+    <state x="664" y="262" key="FileChooserDialogImpl" timestamp="1607288253240">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="664" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607288253240" />
+    <state width="1900" height="244" key="GridCell.Tab.0.bottom" timestamp="1607595861387">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="244" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607595861387" />
+    <state width="1900" height="244" key="GridCell.Tab.0.center" timestamp="1607595861387">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="244" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607595861387" />
+    <state width="1900" height="244" key="GridCell.Tab.0.left" timestamp="1607595861387">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="244" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607595861387" />
+    <state width="1900" height="244" key="GridCell.Tab.0.right" timestamp="1607595861387">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="244" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607595861387" />
+    <state x="441" y="94" key="SettingsEditor" timestamp="1607288258934">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="441" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1607288258934" />
+    <state x="507" y="256" width="904" height="628" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1607456607093">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="507" y="256" width="904" height="628" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1607456607093" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/GlobalWarmingTest.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

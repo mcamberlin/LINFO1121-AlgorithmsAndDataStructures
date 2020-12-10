@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JavaGrading">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/JavaGrading.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

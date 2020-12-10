@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8fcb9449-4129-45ab-8cf7-3aaef8c89948" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iNLYcAkoMVGHaWrcHqZLFmVndn" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538490648045" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../JUnitTest/junit-4.13.jar" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestUnion">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="LSINF1121_PART2_UnionIntervals" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="LSINF1121_PART2_UnionIntervals" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LSINF1121_PART2_UnionIntervals" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StackTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUnion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LSINF1121_PART2_UnionIntervals" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestUnion" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUnion.testUnion1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LSINF1121_PART2_UnionIntervals" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestUnion" />
+      <option name="METHOD_NAME" value="testUnion1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUnion.testUnion8" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LSINF1121_PART2_UnionIntervals" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestUnion" />
+      <option name="METHOD_NAME" value="testUnion8" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUnion.testUnion9" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LSINF1121_PART2_UnionIntervals" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestUnion" />
+      <option name="METHOD_NAME" value="testUnion9" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.StackTests" />
+      <item itemvalue="JUnit.TestUnion" />
+      <item itemvalue="JUnit.TestUnion.testUnion1" />
+      <item itemvalue="JUnit.TestUnion.testUnion8" />
+      <item itemvalue="JUnit.TestUnion.testUnion9" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestUnion" />
+        <item itemvalue="JUnit.TestUnion.testUnion9" />
+        <item itemvalue="JUnit.TestUnion.testUnion8" />
+        <item itemvalue="JUnit.TestUnion.testUnion1" />
+        <item itemvalue="JUnit.StackTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8fcb9449-4129-45ab-8cf7-3aaef8c89948" name="Default Changelist" comment="" />
+      <created>1537447392970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537447392970</updated>
+      <workItem from="1537452939556" duration="5350000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5350000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="441" y="94" key="#Project_Structure" timestamp="1601743177093">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="441" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1601743177093" />
+    <state x="664" y="262" key="FileChooserDialogImpl" timestamp="1601747168258">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="664" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601747168258" />
+    <state width="1900" height="359" key="GridCell.Tab.0.bottom" timestamp="1601756106546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="359" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601756106546" />
+    <state width="1900" height="359" key="GridCell.Tab.0.center" timestamp="1601756106546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="359" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601756106546" />
+    <state width="1900" height="359" key="GridCell.Tab.0.left" timestamp="1601756106546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="359" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601756106546" />
+    <state width="1900" height="359" key="GridCell.Tab.0.right" timestamp="1601756106546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="359" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601756106546" />
+    <state width="1900" height="359" key="GridCell.Tab.1.bottom" timestamp="1601756106546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="359" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601756106546" />
+    <state width="1900" height="359" key="GridCell.Tab.1.center" timestamp="1601756106546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="359" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601756106546" />
+    <state width="1900" height="359" key="GridCell.Tab.1.left" timestamp="1601756106546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="359" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601756106546" />
+    <state width="1900" height="359" key="GridCell.Tab.1.right" timestamp="1601756106546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="359" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601756106546" />
+    <state x="441" y="94" width="1370" height="709" key="SettingsEditor" timestamp="1601750625202">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="441" y="94" width="1370" height="709" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601750625202" />
+  </component>
+</project>

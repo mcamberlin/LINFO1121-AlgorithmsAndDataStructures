@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8fcb9449-4129-45ab-8cf7-3aaef8c89948" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hjzyR1wkP5OVAw9PLNslDDnzcD" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.StackTests (1)">
+    <configuration name="All in LSINF1121_PART1_Stack" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LSINF1121_PART1_Stack" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyStackTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LSINF1121_PART1_Stack" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyStackTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackTests (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LSINF1121_PART1_Stack" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StackTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LSINF1121_PART1_Stack" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StackTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LSINF1121_PART1_Stack" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StackTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.All in LSINF1121_PART1_Stack" />
+      <item itemvalue="JUnit.MyStackTest" />
+      <item itemvalue="JUnit.StackTests (1)" />
+      <item itemvalue="JUnit.StackTests" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StackTests (1)" />
+        <item itemvalue="JUnit.StackTests" />
+        <item itemvalue="JUnit.All in LSINF1121_PART1_Stack" />
+        <item itemvalue="JUnit.StackTests" />
+        <item itemvalue="JUnit.MyStackTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8fcb9449-4129-45ab-8cf7-3aaef8c89948" name="Default Changelist" comment="" />
+      <created>1537447392970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537447392970</updated>
+      <workItem from="1537452939556" duration="5350000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5350000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="121" y="0" key="#Project_Structure" timestamp="1600590916769">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1600590916769" />
+    <state width="1899" height="286" key="GridCell.Tab.0.bottom" timestamp="1600682421813">
+      <screen x="-1920" y="360" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="286" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.360.1920.1040@-1920.360.1920.1040" timestamp="1600682421813" />
+    <state width="1260" height="170" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1600595540492" />
+    <state width="1899" height="286" key="GridCell.Tab.0.center" timestamp="1600682421813">
+      <screen x="-1920" y="360" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="286" key="GridCell.Tab.0.center/0.0.1280.680/-1920.360.1920.1040@-1920.360.1920.1040" timestamp="1600682421813" />
+    <state width="1260" height="170" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1600595540491" />
+    <state width="1899" height="286" key="GridCell.Tab.0.left" timestamp="1600682421813">
+      <screen x="-1920" y="360" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="286" key="GridCell.Tab.0.left/0.0.1280.680/-1920.360.1920.1040@-1920.360.1920.1040" timestamp="1600682421813" />
+    <state width="1260" height="170" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1600595540491" />
+    <state width="1899" height="286" key="GridCell.Tab.0.right" timestamp="1600682421813">
+      <screen x="-1920" y="360" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="286" key="GridCell.Tab.0.right/0.0.1280.680/-1920.360.1920.1040@-1920.360.1920.1040" timestamp="1600682421813" />
+    <state width="1260" height="170" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1600595540492" />
+    <state x="299" y="152" key="run.anything.popup" timestamp="1600593287356">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="299" y="152" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1600593287356" />
+    <state x="305" y="4" width="672" height="678" key="search.everywhere.popup" timestamp="1600589853040">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="305" y="4" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1600589853040" />
+  </component>
+</project>
