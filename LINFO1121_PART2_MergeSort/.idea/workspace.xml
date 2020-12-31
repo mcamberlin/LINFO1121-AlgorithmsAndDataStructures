@@ -34,11 +34,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538671402002" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -53,7 +54,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Tests">
+  <component name="RunManager" selected="JUnit.All in LSINF1121_PART2_MergeSort">
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
       <module name="LSINF1121_PART2_Median" />
       <option name="VM_PARAMETERS" />
@@ -101,13 +102,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LSINF1121_PART2_Median" />
+    <configuration name="All in LSINF1121_PART2_MergeSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LSINF1121_PART2_MergeSort" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="StackTests" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -150,19 +148,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.StackTests" />
       <item itemvalue="JUnit.TestUnion" />
       <item itemvalue="JUnit.Test" />
       <item itemvalue="JUnit.Tests" />
       <item itemvalue="JUnit.Tests.testSortEven" />
+      <item itemvalue="JUnit.All in LSINF1121_PART2_MergeSort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in LSINF1121_PART2_MergeSort" />
         <item itemvalue="JUnit.Tests" />
         <item itemvalue="JUnit.Tests.testSortEven" />
         <item itemvalue="JUnit.Test" />
         <item itemvalue="JUnit.TestUnion" />
-        <item itemvalue="JUnit.StackTests" />
       </list>
     </recent_temporary>
   </component>
@@ -186,51 +184,5 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="664" y="262" key="FileChooserDialogImpl" timestamp="1601827753655">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="664" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601827753655" />
-    <state width="1260" height="215" key="GridCell.Tab.0.bottom" timestamp="1601844901388">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1260" height="215" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1601844901388" />
-    <state width="1900" height="283" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601829412936" />
-    <state width="1260" height="215" key="GridCell.Tab.0.center" timestamp="1601844901388">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1260" height="215" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1601844901388" />
-    <state width="1900" height="283" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601829412936" />
-    <state width="1260" height="215" key="GridCell.Tab.0.left" timestamp="1601844901388">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1260" height="215" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1601844901388" />
-    <state width="1900" height="283" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601829412935" />
-    <state width="1260" height="215" key="GridCell.Tab.0.right" timestamp="1601844901388">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1260" height="215" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1601844901388" />
-    <state width="1900" height="283" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601829412936" />
-    <state width="1260" height="215" key="GridCell.Tab.1.bottom" timestamp="1601844901388">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1260" height="215" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1601844901388" />
-    <state width="1260" height="215" key="GridCell.Tab.1.center" timestamp="1601844901388">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1260" height="215" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1601844901388" />
-    <state width="1260" height="215" key="GridCell.Tab.1.left" timestamp="1601844901388">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1260" height="215" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1601844901388" />
-    <state width="1260" height="215" key="GridCell.Tab.1.right" timestamp="1601844901388">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1260" height="215" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1601844901388" />
-    <state x="441" y="94" key="SettingsEditor" timestamp="1601829482971">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="441" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601829482971" />
   </component>
 </project>

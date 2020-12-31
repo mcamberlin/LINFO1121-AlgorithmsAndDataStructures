@@ -40,8 +40,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538494103116" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -190,55 +190,5 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="93" y="93" width="1733" height="853" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1601823607792">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="93" y="93" width="1733" height="853" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601823607792" />
-    <state x="664" y="262" key="FileChooserDialogImpl" timestamp="1601756132548">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="664" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601756132548" />
-    <state width="1900" height="359" key="GridCell.Tab.0.bottom" timestamp="1601827730209">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1900" height="359" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601827730209" />
-    <state width="1900" height="359" key="GridCell.Tab.0.center" timestamp="1601827730209">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1900" height="359" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601827730209" />
-    <state width="1900" height="359" key="GridCell.Tab.0.left" timestamp="1601827730209">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1900" height="359" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601827730209" />
-    <state width="1900" height="359" key="GridCell.Tab.0.right" timestamp="1601827730209">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1900" height="359" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601827730209" />
-    <state width="1900" height="359" key="GridCell.Tab.1.bottom" timestamp="1601827730209">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1900" height="359" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601827730209" />
-    <state width="1900" height="359" key="GridCell.Tab.1.center" timestamp="1601827730209">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1900" height="359" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601827730209" />
-    <state width="1900" height="359" key="GridCell.Tab.1.left" timestamp="1601827730209">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1900" height="359" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601827730209" />
-    <state width="1900" height="359" key="GridCell.Tab.1.right" timestamp="1601827730209">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1900" height="359" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601827730209" />
-    <state x="441" y="94" key="SettingsEditor" timestamp="1601829447030">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="441" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601829447030" />
-    <state x="683" y="412" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1601823935128">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="683" y="412" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1601823935128" />
   </component>
 </project>

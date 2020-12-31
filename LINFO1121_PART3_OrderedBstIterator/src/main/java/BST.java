@@ -99,53 +99,57 @@ public class BST<Key extends Comparable<Key>, Value> implements Iterable<Key> {
     }
 
     // TODO STUDDENT: Implement the BSTIterator class
-    // an iterator, doesn't implement remove() since it's optional
-    private class BSTIterator implements Iterator<Key> {
+    private class BSTIterator implements Iterator<Key>
+    {
 
         private int size;
         private Node current;
         Stack<Node> stack;
 
-
-
-        public BSTIterator() {
+        public BSTIterator()
+        {
             // TODO COMPLEXITY EXPECTED: O(h) h is the height of the BST
             this.size = size();
             this.current = root;
-            this.stack = new Stack<Node>();
+            this.stack = new Stack<>();
 
             while(current != null)
             {
                 stack.push(current);
                 current = current.left;
             }
-
         }
 
         public boolean hasNext() throws ConcurrentModificationException
         {
             // TODO COMPLEXITY EXPECTED: O(1)
-            if(size() != size)
+            if(size != size())
                 throw new ConcurrentModificationException();
-            return  (!stack.isEmpty() || current != null);
+
+            if(stack.isEmpty() && current == null)
+                return false;
+            return true;
         }
 
-        public Key next()  throws ConcurrentModificationException, NoSuchElementException
+        public Key next() throws ConcurrentModificationException, NoSuchElementException
         {
+            // TODO COMPLEXITY EXPECTED: O(h) h is the height of the BST
+            if(size != size())
+                throw new ConcurrentModificationException();
             if(!hasNext())
                 throw new NoSuchElementException();
-            if(size() != size)
-                throw new ConcurrentModificationException();
 
             current = stack.pop();
-            Node node = current;
+            Key rslt = current.key;
+
             current = current.right;
             while(current != null)
             {
                 stack.push(current);
                 current = current.left;
             }
-            return node.key;
+            return rslt;
         }
+
     }
 }
