@@ -12,28 +12,32 @@ public class MergeSort {
 
         int i = lo;
         int j = mid + 1;
-        for (int k = lo; k <= hi; k++) {
-            if (i > mid) {
+        for (int k = lo; k <= hi; k++)
+        {
+            if (i > mid)
                 a[k] = aux[j++];
-            } else if (j > hi) {
+
+            else if (j > hi)
                 a[k] = aux[i++];
-            } else if (aux[j].compareTo(aux[i]) < 0) {
+
+            else if (aux[j].compareTo(aux[i]) < 0)
                 a[k] = aux[j++];
-            } else {
+
+            else
                 a[k] = aux[i++];
-            }
         }
     }
 
     // Mergesort a[lo..hi] using auxiliary array aux[lo..hi]
-    private static void sort(Comparable[] a, Comparable[] aux, int lo, int hi) {
+    private static void sort(Comparable[] a, Comparable[] aux, int lo, int hi)
+    {
         // TODO
-        if(hi <= lo)
+        if(lo >= hi)
             return;
-        int mid = lo + (hi-lo)/2;
-        sort(a, aux, lo, mid);
-        sort(a, aux, mid+1, hi);
-        merge(a,aux,lo,mid, hi);
+        int mid = lo+(hi-lo)/2;
+        sort(a,aux,lo,mid);
+        sort(a,aux,mid+1,hi);
+        merge(a,aux,lo,mid,hi);
     }
 
     /**

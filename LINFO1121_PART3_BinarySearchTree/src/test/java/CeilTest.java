@@ -12,7 +12,39 @@ import static org.junit.Assert.assertTrue;
 
 public class CeilTest {
 
-    ///////// Base
+    @Test
+    public void test1() {
+        int values[] = new int[]{12,8,18,3,11,14,20,9,15};
+
+        Node root = new Node(values[0]);
+        for (int i = 1; i < values.length; i++) {
+            root.add(values[i]);
+        }
+        assertEquals(new Integer(11),Ceil.ceil(root,11));
+    }
+
+    @Test
+    public void test2() {
+        int values[] = new int[]{12,8,18,3,11,14,20,9,15};
+
+        Node root = new Node(values[0]);
+        for (int i = 1; i < values.length; i++) {
+            root.add(values[i]);
+        }
+        assertEquals(new Integer(8),Ceil.ceil(root,4));
+    }
+
+    @Test
+    public void test3() {
+        int values[] = new int[]{12,8,18,3,11,14,20,9,15};
+
+        Node root = new Node(values[0]);
+        for (int i = 1; i < values.length; i++) {
+            root.add(values[i]);
+        }
+        assertEquals(null,Ceil.ceil(root,21));
+    }
+
     @Test
     @Grade(value=20)
     public void testCeilOk() {

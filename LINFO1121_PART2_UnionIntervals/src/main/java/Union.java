@@ -1,77 +1,63 @@
+import java.util.ArrayList;
 import java.util.Arrays;
+
 public class Union {
 
     public static Interval [] union(Interval [] intervals)
     {
-        if(intervals.length <2)
+        // TODO
+        if(intervals.length == 0)
+            return new Interval[]{};
+        if(intervals.length ==1)
             return intervals;
+
+        ArrayList<Interval> rslt = new ArrayList<>();
 
         Arrays.sort(intervals);
 
-        Interval[] tmp = new Interval[intervals.length];
-        tmp[0] = intervals[0];
-        int j = 1; //index of the returned array
+        int min = intervals[0].min;
+        int max = intervals[0].max;
 
-        for(int i=1; i<intervals.length; i++)
+        for(int i=0; i<intervals.length; i++)
         {
-            if( !( intervals[i].min>=tmp[j-1].min &&  intervals[i].max <= tmp[j-1].max)) // the last interval in tmp doesn't contain the new one
+            if(i< intervals.length-1 && overlapped(intervals[i], intervals[i+1]))
             {
-                if (areOverlapped(tmp[j-1], intervals[i]))
+                min = intervals[i].min;
+                max = intervals[i].max;
+                Interval currentMax = intervals[i];
+                int j = i+1;
+                for(; j<intervals.length && overlapped(currentMax, intervals[j]); j++)
                 {
-                    int max;
-                    if(intervals[j-1].max > intervals[i].max)
-                        max = intervals[i-1].max;
-                    else
-                        max = intervals[i].max;
+                    if(intervals[j].max >max)
+                    {
+                        currentMax = intervals[j];
+                        max = intervals[j].max;
+                    }
+                }
 
-                    Interval newInterval = new Interval(tmp[j-1].min,max);
-                    tmp[j-1] = newInterval;
-                }
-                else
-                {
-                    Interval newInterval = new Interval(intervals[i].min, intervals[i].max);
-                    tmp[j] = newInterval;
-                    j++;
-                }
+                rslt.add(new Interval(min,max));
+                i = j-1;
             }
-
+            else
+            {
+                rslt.add(intervals[i]);
+            }
         }
-        Interval[] result = new Interval[j];
-
-        /*
-         * @param      src      the source array.
-         * @param      srcPos   starting position in the source array.
-         * @param      dest     the destination array.
-         * @param      destPos  starting position in the destination data.
-         * @param      length   the number of array elements to be copied.
-         */
-        System.arraycopy(tmp, 0, result, 0, j);
-
-        return result;
+        return rslt.toArray(new Interval[0]);
     }
 
-    /**
-     * @param interval1
-     * @param interval2
-     * @return
-     *  @true if interval1 and interval2 overlap
-     *  @false otherwise
+    /***
+     *
+     * @param u1 = union such that u1.compareTo(u2) <0
+     * @param u2
+     * @return true if both u1 and u2 overlap
+     *          false otherwise
      */
-    public static boolean areOverlapped(Interval interval1, Interval interval2)
+    public static boolean overlapped(Interval u1, Interval u2)
     {
-        if((interval1.max - interval1.min) <= (interval2.max - interval2.min) )
-        {
-            if(interval1.min >= interval2.min && interval1.min <= interval2.max
-                || interval1.max >= interval2.min && interval1.max <=interval2.max)
-                return true;
-        }
-        else
-        {
-            if(interval2.min >= interval1.min && interval2.min <= interval1.max
-                    || interval2.max >= interval1.min && interval2.max <=interval1.max)
-                return true;
-        }
-        return false;
+        if(u1.max < u2.min)
+            return false;
+        return true;
     }
 
 }
