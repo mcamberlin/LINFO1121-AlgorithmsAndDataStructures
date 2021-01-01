@@ -48,11 +48,9 @@ public class IncrementalHash {
      * @return (t[from]*R^(M-1)+t[from+1]*R^(M-2)+...+t[from+M-1])%Q
      */
     public int nextHash(char[] t, int previousHash, int from) {
-        // TODO, obviously this is not O(1)
-        int r = 1;
-        for(int i =0; i<M-1;i++)
-            r *=R;
-        return ((previousHash + t[from-1] * (Q-RM))*R + t[from+M-1]) %Q;
+        // TODO
+        int tmp = (previousHash +Q - t[from-1] * RM % Q ) % Q;
+        return (tmp * R + t[from-1 + M]) % Q;
     }
 
 
