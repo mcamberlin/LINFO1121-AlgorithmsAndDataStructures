@@ -19,7 +19,7 @@ public class DepthFirstPaths {
         dfs(G, s);
     }
 
-    // Depth first search from v
+    // Depth first search from v - Recursive way
     private void dfs(Graph G, int v)
     {
         //TODO question 2
@@ -33,6 +33,28 @@ public class DepthFirstPaths {
             }
         }
     }
+    // Depth first search from v - Using a stack
+    private void dfs2(Graph G, int v)
+    {
+        Stack<Integer> stack = new Stack<Integer>();
+
+        marked[v] = true;
+        stack.push(v);
+        while (!stack.isEmpty())
+        {
+            int w = stack.pop();
+            for (int x : G.adj(w))
+            {
+                if (!marked[x])
+                {
+                    marked[x] = true;
+                    edgeTo[x] = w;
+                    stack.push(w);
+                }
+            }
+        }
+    }
+
 
 
     /**
