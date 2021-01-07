@@ -36,7 +36,7 @@ public class MineClimbing {
 
         while (!priorityQueue.isEmpty())
         {
-            Entry current = priorityQueue.remove();
+            Entry current = priorityQueue.poll();
 
             if (current.position == destination) // to gain rapidity
                 break;
