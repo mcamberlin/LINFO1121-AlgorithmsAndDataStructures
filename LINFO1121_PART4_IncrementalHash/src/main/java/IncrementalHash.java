@@ -49,7 +49,7 @@ public class IncrementalHash {
      */
     public int nextHash(char[] t, int previousHash, int from) {
         // TODO
-        int tmp = (previousHash +Q - t[from-1] * RM % Q ) % Q;
+        int tmp = (previousHash - t[from-1] * (RM-Q)); // RM-Q represents R^{M-1}
         return (tmp * R + t[from-1 + M]) % Q;
     }
 

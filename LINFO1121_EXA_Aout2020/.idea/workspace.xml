@@ -35,7 +35,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
   </component>
-  <component name="RunManager" selected="JUnit.E1Q2Test.exampleTest">
+  <component name="RunManager" selected="JUnit.All in exam2020_student">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -106,10 +106,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.E1Q2Test.exampleTest" />
-        <item itemvalue="JUnit.E1Q2Test" />
-        <item itemvalue="JUnit.E1Q1Test" />
         <item itemvalue="JUnit.All in exam2020_student" />
+        <item itemvalue="JUnit.E1Q2Test" />
+        <item itemvalue="JUnit.E1Q2Test.exampleTest" />
+        <item itemvalue="JUnit.E1Q1Test" />
         <item itemvalue="JUnit.E1Q1Test.exampleTest" />
       </list>
     </recent_temporary>

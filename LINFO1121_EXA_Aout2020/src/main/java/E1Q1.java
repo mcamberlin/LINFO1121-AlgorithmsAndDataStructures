@@ -72,7 +72,6 @@ public class E1Q1 {
                     if (!s.equals(b) && !bulles.get(s).contains(b)) // Si pas déjà dedans, alors ajoute le !
                     {
                         bulles.get(s).add(b); // s et b ont eu un contact
-                        bulles.get(b).add(s);
                     }
                 }
 

@@ -226,9 +226,9 @@
     </configuration>
     <list>
       <item itemvalue="Application.IncrementalHashTest" />
+      <item itemvalue="Application.IncrementalHash" />
       <item itemvalue="JUnit.IncrementalHashTest" />
       <item itemvalue="JUnit.All in LSINF1121_PART4_IncrementalHash" />
-      <item itemvalue="Application.IncrementalHash" />
       <item itemvalue="JUnit.IncrementalHashTest.hashCorrectOnWords0" />
     </list>
     <recent_temporary>
@@ -281,55 +281,5 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="93" y="93" width="1733" height="853" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1604257385192">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="93" y="93" width="1733" height="853" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604257385192" />
-    <state x="664" y="262" key="FileChooserDialogImpl" timestamp="1604232640915">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="664" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604232640915" />
-    <state width="1878" height="248" key="GridCell.Tab.0.bottom" timestamp="1604258753307">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1878" height="248" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604258753307" />
-    <state width="1878" height="248" key="GridCell.Tab.0.center" timestamp="1604258753307">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1878" height="248" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604258753307" />
-    <state width="1878" height="248" key="GridCell.Tab.0.left" timestamp="1604258753307">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1878" height="248" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604258753307" />
-    <state width="1878" height="248" key="GridCell.Tab.0.right" timestamp="1604258753307">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1878" height="248" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604258753307" />
-    <state width="1878" height="358" key="GridCell.Tab.1.bottom" timestamp="1604240596259">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1878" height="358" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604240596259" />
-    <state width="1878" height="358" key="GridCell.Tab.1.center" timestamp="1604240596259">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1878" height="358" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604240596259" />
-    <state width="1878" height="358" key="GridCell.Tab.1.left" timestamp="1604240596259">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1878" height="358" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604240596259" />
-    <state width="1878" height="358" key="GridCell.Tab.1.right" timestamp="1604240596259">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1878" height="358" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604240596259" />
-    <state x="541" y="255" key="IDE.errors.dialog" timestamp="1604244969255">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="541" y="255" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604244969255" />
-    <state x="441" y="94" key="SettingsEditor" timestamp="1604240611931">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="441" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604240611931" />
   </component>
 </project>

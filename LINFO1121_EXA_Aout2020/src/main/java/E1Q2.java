@@ -10,7 +10,7 @@ public class E1Q2 {
      * - les voyageurs peuvent repartir au moment exact où ils arrivent en gare;
      * - toutes les liaisons sont directes;
      * - les horaires ne sont pas périodiques, pas besoin de les répeter chaque jour.
-     * - dans tout les cas, startTime < endTime et from != to dans les relations.
+     * - dans tous les cas, startTime < endTime et from != to dans les relations.
      * - il n'y a jamais de doublons (i.e. deux relations strictement égales)
      * <p>
      * Utilisez la fonction `distance` pour calculer la distance entre deux gares.
@@ -46,95 +46,83 @@ public class E1Q2 {
     public static String farthestPointReachable(HashMap<StationTime, LinkedList<StationTime>> relations, Map<String, Position> stationPositions,
                                                 StationTime startPoint, int maxTime)
     {
-        //TODO
-        //1. Compléter le graphe: relations pour indiquer pour rester à la meme gare à une certaine heure jusqu'à une autre
-
+        //TODO 1. Fill the graph
         HashMap<StationTime, HashSet<StationTime>> graph = new HashMap<>();
         graph.put(startPoint, new HashSet<>());
 
+        // Parcourir toute la liste de relations pour compléter graph
         for (StationTime stationTime : relations.keySet())
         {
             if (!graph.containsKey(stationTime))
             {
                 graph.put(stationTime, new HashSet<StationTime>());
+                for (StationTime stationTime2 : relations.get(stationTime))
+                {
+                    if (!graph.containsKey(stationTime2))
+                    {
+                        graph.put(stationTime2, new HashSet<StationTime>());
+                    }
+                    graph.get(stationTime).add(stationTime2);
+                }
             }
 
-            LinkedList<StationTime> adjacentStationTimes = relations.get(stationTime);
-            for (StationTime adjacentStationTime : adjacentStationTimes)
-            {
-                graph.get(stationTime).add(adjacentStationTime);
-            }
         }
 
-        // regarder y a une heure et une gare fixée, il n'y a pas d'autres trains qui partent mais à une heure différente
+        //TODO 2. Fill the graph to be able to stay in the same station to wait for a later train
         for (StationTime stationTime1 : graph.keySet())
         {
-            for (StationTime stationTime2 : graph.keySet())
+            for (StationTime stationTime2 : graph.keySet()) //getKey(stationTime1)
             {
-                if (!stationTime1.equals(stationTime2) && stationTime1.pos.equals(stationTime2.pos))
-                // Il est possible de prendre des trains à des heures différentes en restant sur place
-                {
-                    // faire un lien vers du noeud avec la plus petite heure vers l'autre pour symboliser le fait qu'on puisse rester sur place et attendre
-                    if (stationTime1.time < stationTime2.time)
-                    {
-                        graph.get(stationTime1).add(stationTime2);
-                    } else
-                    {
-                        graph.get(stationTime2).add(stationTime1);
-                    }
-
-                }
+                if (stationTime1.pos.equals(stationTime2.pos) && stationTime1.time < stationTime2.time)
+                    graph.get(stationTime1).add(stationTime2); // peut rester sur place jusqu'au départ d'un prochain train
             }
         }
 
-        // Pour déterminer la gare la plus éloignée, atteignable avant (<=) le temps maxTime, on peut effectuer un BFS et maintenir 2 compteurs, un pour la distance
-        // et un pour le temps écoulé. Et selectionner celui avec la plus grande distance une fois que le temps maximum est atteint.
+        //TODO 3. Implement a DFS
 
-        // effectuer un BFS
-        Map<StationTime, Boolean> marked = new TreeMap<>();
-        Map<StationTime, Integer> distTo = new TreeMap<>();
-        Map<StationTime, Integer> timeSpent = new TreeMap<>();
+        //idea:
+        //  iterate the graph with a DFS or BFS (here DFS is used)
+        // check the arrival time. Is it before @maxTime ?
+        //  update as iteration goes by, the farthest station
 
-        for (StationTime st : graph.keySet())
-        {
-            marked.put(st, false);
-            distTo.put(st, Integer.MIN_VALUE);
-            timeSpent.put(st, 0);
-        }
-
-        Queue<StationTime> queue = new ArrayDeque<>();
-        queue.add(startPoint);
-
-        marked.put(startPoint, true);
-        distTo.put(startPoint, 0);
-        timeSpent.put(startPoint, 0);
+        // Tools for algorithm
+        HashSet<StationTime> marked = new HashSet<>(); //boolean[] marked = new boolean[size];
+        Stack<StationTime> stack = new Stack<>();
 
         String farthestStation = startPoint.pos;
-        int farthestDistance = 0;
+        marked.add(startPoint); //marked[startPoint] = true;
+        stack.add(startPoint);
 
-        while (!queue.isEmpty())
+        while (!stack.isEmpty())
         {
-            StationTime current = queue.remove();
-
-            for (StationTime stationTime : graph.get(current))
+            StationTime current = stack.pop();
+            if (current.time <= maxTime)
             {
-                System.out.println(stationTime);
-                if (marked.containsKey(stationTime) && !marked.get(stationTime))
+                // Update farthestStation if a new further station is found
+                Position currentPosition = stationPositions.get(current.pos);
+                Position startPosition = stationPositions.get(startPoint.pos);
+                Position farthestPosition = stationPositions.get(farthestStation);
+                int distStartFarthest = Position.distance(startPosition, farthestPosition);
+                int distStartCurrent = Position.distance(startPosition, currentPosition);
+
+                if (distStartFarthest <= distStartCurrent)
                 {
-                    marked.put(stationTime, true);
-                    distTo.put(stationTime, distTo.get(current) + Position.distance(stationPositions.get(current.pos), stationPositions.get(stationTime.pos)));
-                    timeSpent.put(stationTime, timeSpent.get(current) + stationTime.time);
-                    if (distTo.get(stationTime) > farthestDistance)
+                    farthestStation = current.pos;
+                }
+            }
+            //simple DFS
+            if (graph.containsKey(current))
+            {
+                for (StationTime destination : graph.get(current))
+                {
+                    if (!marked.contains(destination)) // destination have not yet been visited
                     {
-                        farthestDistance = distTo.get(stationTime);
-                        farthestStation = stationTime.pos;
-                    }
-                    if (timeSpent.get(stationTime) <= maxTime)
-                    {
-                        queue.add(stationTime);
+                        marked.add(destination);
+                        stack.add(destination);
                     }
                 }
             }
+
         }
         return farthestStation;
     }
