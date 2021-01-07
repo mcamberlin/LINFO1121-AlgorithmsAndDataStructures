@@ -27,12 +27,12 @@ class MineClimbingCorrect {
         for(int i = 0; i < map.length; i++)
             Arrays.fill(dist[i], Integer.MAX_VALUE);
 
-        PriorityQueue<PositionAndCost> pq = new PriorityQueue<>();
+        PriorityQueue<PositionAndCost> priorityQueue = new PriorityQueue<>();
 
-        pq.add(new PositionAndCost(startX, startY,0));
+        priorityQueue.add(new PositionAndCost(startX, startY,0));
         dist[startX][startY] = 0;
-        while (!pq.isEmpty()) {
-            PositionAndCost next = pq.poll();
+        while (!priorityQueue.isEmpty()) {
+            PositionAndCost next = priorityQueue.poll();
             if(next.x == endX && next.y == endY)
                 break;
             if(dist[next.x][next.y] != next.cost)
@@ -49,7 +49,7 @@ class MineClimbingCorrect {
                 int add_cost = Math.abs(map[next.x][next.y] - map[neiX][neiY]);
                 if (dist[neiX][neiY] > add_cost + next.cost) {
                     dist[neiX][neiY] = add_cost + next.cost;
-                    pq.add(new PositionAndCost(neiX, neiY, dist[neiX][neiY]));
+                    priorityQueue.add(new PositionAndCost(neiX, neiY, dist[neiX][neiY]));
                 }
             }
         }
